@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kubrademoproject.iml" filepath="$PROJECT_DIR$/.idea/kubrademoproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mahmut/mahmut.iml" filepath="$PROJECT_DIR$/mahmut/mahmut.iml" />
+    </modules>
+  </component>
+</project>
